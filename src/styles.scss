@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+body{
+	min-width:500px;
+}
+
+#small {
+	margin: 2rem;
+	border: 1px solid black;
+	background-color: #337aff;
+	padding: 1rem;
+}
+
+#big {
+	margin: 2rem;
+	border: 1px solid black;
+	background-color: #ffc1c1;
+	padding: 1rem;
+}
