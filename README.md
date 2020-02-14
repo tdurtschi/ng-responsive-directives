@@ -1,6 +1,16 @@
 # NgResponsiveDirectives
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.9.
+This project provides an example use case for Angular Directives to achieve extremely straightforward, responsive design in component templates.
+
+Example:
+```html
+<h1 mobile id="small">
+  Small
+</h1>
+<h1 desktop id="big">
+  Big!
+</h1>
+```
 
 ## Development server
 
